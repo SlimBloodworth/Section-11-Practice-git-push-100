@@ -2,3 +2,4 @@ BRANCH - FIRST
 ==================
 Learning to branch 
 New Branch From Master Branch
+It matters where you branch from, so pay attention to your HEAD and what branch you're on.
