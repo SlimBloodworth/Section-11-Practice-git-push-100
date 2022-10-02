@@ -3,3 +3,4 @@ BRANCH - FIRST
 Learning to branch 
 Now on newBranch
 next commit using -a -m
+Now on branchFromNewBranch
