@@ -1,4 +1,4 @@
 BRANCH - FIRST
 ==================
-Learning to branch 
+
 Created a branch called createAndSwitchBranch
