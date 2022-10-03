@@ -5,3 +5,4 @@ Learning to branch
 next commit using -a -m
 
 Learning to merge branches
+added some text to practice
